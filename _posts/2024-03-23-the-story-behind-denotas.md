@@ -43,7 +43,7 @@ Se a ideia pareceu interessante e você gostaria de testá-la, pode me mandar um
 
 Since childhood, encouraged by my mother, I've always enjoyed organizing my readings in a small notebook. Today, I read far more ebooks than physical books, and I missed having a place to gather my highlights and notes. This need led me to create Denotas.
 
-The goal is to centralize **my** reading insights, allowing **me** to easily find **my** ideas when I need them. With Denotas, you can import notes from Kindle or add them directly to the site, organize them with tags, and view them by highlight colors, making it easy to review and use the most important information.
+The goal is to centralize my reading insights, allowing me to easily find my ideas when I need them. With Denotas, you can import notes from Kindle or add them directly to the site, organize them with tags, and view them by highlight colors, making it easy to review and use the most important information.
 
 ### The technical journey
 
