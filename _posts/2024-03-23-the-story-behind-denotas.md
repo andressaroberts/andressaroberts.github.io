@@ -39,18 +39,3 @@ Se a ideia pareceu interessante e você gostaria de testá-la, pode me mandar um
 
 ---
 
-## 🇬🇧 The story behind Denotas
-
-Since childhood, encouraged by my mother, I've always enjoyed organizing my readings in a small notebook. Today, I read far more ebooks than physical books, and I missed having a place to gather my highlights and notes. This need led me to create Denotas.
-
-The goal is to centralize my reading insights, allowing me to easily find my ideas when I need them. With Denotas, you can import notes from Kindle or add them directly to the site, organize them with tags, and view them by highlight colors, making it easy to review and use the most important information.
-
-### The technical journey
-
-Denotas is a personal project that allows me to explore new technologies and improve my development skills. The first version was generated with the help of the AI Lovable, a monolith that I adjusted with the help of other AIs, such as GPT. For security reasons, I chose to separate the frontend and backend.
-
-For the frontend, I used React, and for the backend, Node.js with Express. The chosen database was Supabase, which offers a complete solution for data storage and management.
-
-## 🇬🇧 Where to find Denotas
-
-You can access Denotas through this link: [https://denotas.vercel.app/](https://denotas.vercel.app/).
